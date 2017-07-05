@@ -1,2 +1,2 @@
-# The-First
-python学习笔记
+# python学习笔记
+记录python学习过程中的
